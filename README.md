@@ -98,3 +98,4 @@ npm start
 This project is created for Fidelia Arts gallery.
 # fidelia-arts
 # FIDELIA-ARTS
+# FIDELIA-ARTS
