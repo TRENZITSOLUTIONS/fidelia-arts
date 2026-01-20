@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Fidelia Arts - Premier Art Gallery | Buy & Sell Fine Art",
   description: "Discover and collect extraordinary artworks. Fidelia Arts is a premier gallery for buying and selling fine art, contemporary pieces, and timeless masterpieces.",
+  icons: {
+    icon: "/fidelia.png",
+  },
 };
 
 export default function RootLayout({
